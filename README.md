@@ -12,7 +12,7 @@ This project focuses on building and comparing stock price prediction models usi
 /README.md                # Project overview and instructions
 /StockPrice_Forecast.ipynb              # Jupyter Notebook with data preprocessing, model implementation, and evaluation
 /NFLX.csv               # Dataset containing historical stock price data used in the analysis
-
+```
 ---
 
 ## Tech Stack Used
@@ -29,7 +29,7 @@ This project focuses on building and comparing stock price prediction models usi
 
 ---
 
-## How to Use
+
 
 ## How to Access the Project
 1. Ensure Jupyter Notebook or JupyterLab is installed (via Anaconda or `pip install notebook`).
